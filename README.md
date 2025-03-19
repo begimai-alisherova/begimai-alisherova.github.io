@@ -17,10 +17,6 @@ Features:
 
     5.2 Hosting: GitHub Pages
 
-
-
-
-
 Live Demo:
 
 Check out the live version of this website here: https://begimai-alisherova.github.io/
